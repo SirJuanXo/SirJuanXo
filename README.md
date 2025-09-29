@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SirJuanXo an amateur programmer. My name is Juan but I use JuanXo as my nickname in honor of my teacher of Maths.
-- 👀 I’m interested in Python packages as Numpy, Pandas, Matplotlib, Selenium... and others to create shorts or big codes to run whatever I need in my Chemistry career.
-- 🌱 I’m currently learning Tkinter (finishing), Numpy and Selenium (at the moment).
-- 💞️ I’m looking to collaborate on whatever project that could be related with Chemistry and Maths overall.
+- 👀 I’m interested in Python, C++, Rust, SQL, Go and maybe some random/crazzy programming language as Assembly or BrainFuck.
+- 🌱 I’m currently learning Go to work as official programmer in the company I'm currently work with.
+- 💞️ Not looking for collaborations but I'm open of everything, life is changing.
 - 📫 How to reach me: Send me a direct message to my IG juan_lu_7
-
-- So here we are, learning and sharing, thanks to science to make our lifes easier.
